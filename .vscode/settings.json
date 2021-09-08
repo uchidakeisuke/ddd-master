@@ -1,0 +1,7 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode" // これを入れない場合は、手動でCmd+Pで設定しないといけない
+}

@@ -1,0 +1,5 @@
+node_modules/
+/src/infrastructure/datastore/postgresql/data/
+.DS_Store
+dist/
+/src/interface/http-controller/src/*js

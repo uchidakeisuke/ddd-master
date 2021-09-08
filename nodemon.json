@@ -1,0 +1,5 @@
+{
+	"watch": ["./src/interface/http-controller"],
+	"ext": "ts"
+	// "exec": "docker-compose restart"
+}
